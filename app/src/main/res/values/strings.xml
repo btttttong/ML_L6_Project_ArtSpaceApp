@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M5_L6_Project_ArtSpaceApp</string>
+
+    <string name="cat1">The Playful King</string>
+    <string name="cat2">Snowy Grace</string>
+    <string name="cat3">The Curious Investigator</string>
+    <string name="cat4">Ginger Monk</string>
+    <string name="cat5">Peek-a-Box</string>
+    <string name="cat6">Winter Whiskers</string>
+    <string name="cat7">The Thoughtful CoCo</string>
+    <string name="cat8">Starry Night with a Black Cat</string>
+    <string name="cat9">Stop IT!</string>
+
+</resources>
